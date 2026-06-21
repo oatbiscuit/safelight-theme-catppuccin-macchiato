@@ -1,0 +1,8 @@
+{
+  "id": "theme-catppuccin-macchiato",
+  "name": "catppuccin-macchiato",
+  "version": "1.0.0",
+  "description": "Catppuccin Macchiato theme.",
+  "author": "oatbiscuit",
+  "main": "index.js"
+}
